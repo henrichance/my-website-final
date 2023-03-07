@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&family=Zeyada&display=swap');
+@import url('components/container.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/button.css');
+
+body {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	background-color: #178768;
+}
+
+a{
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	text-align: center;
+}

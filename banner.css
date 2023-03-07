@@ -1,0 +1,20 @@
+.banner{
+	background-image: url(../../images/horlogerie.jpg);
+color:white;
+padding: 150px 0px:
+background-size:cover;
+background-position: center;
+
+
+}
+
+.bannner h1{
+	text-align: center;
+	font-size: 100px;
+	font-family: 'Roboto', serif;
+}
+
+.banner a{
+	position: relative;
+	left: 200px;
+}
